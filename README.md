@@ -3,11 +3,9 @@
 ## Table of Contents
 
 01. [Project Overview](#1-project-overview)
-02. [Key Objectives](#2-key-bjectives)
-03. [Technologies Used](#3-technologies-used)
-04. [Methodology](#4-methodology)
-05. [Project Pipeline](#5-project-pipeline)
-06. [Contact](#10-contact)
+02. [Link to the App](#2-link-to-the-app)
+03. [Project Pipeline](#5-project-pipeline)
+04. [Contact](#10-contact)
 
 
 ## 1. Project Overview
@@ -21,10 +19,15 @@ The analysis phase utilizes Spark, a distributed computing framework, to process
 
 Furthermore, our project includes the development of a professional Graphical User Interface (GUI) using HTML, CSS, Bootstrap, and Flask. This interface provides an enhanced user experience, facilitating interaction with the data and presenting results in an intuitive and user-friendly manner.
 
+## 2. Link to the App
+
+For more details about the Application, you can visit our Youtube channel for a clear demo : 
+
+[Video-demo --->](https://youtu.be/C4hrsXaLyhs?si=pjHZXcikXeucA88U)
 
 
 
-## 5. Project Pipeline:
+## 3. Project Pipeline:
 
 ● Data Sourcing : We extracted data from Google Patents, FPO, Espacenet, Canadian Patents Database, and WIPO using tools like Beautiful Soup, Selenium, and Google Patents Scraper.
 
@@ -45,7 +48,7 @@ Furthermore, our project includes the development of a professional Graphical Us
 The primary goal of this project is to provide a comprehensive understanding of the current state and future direction of electric vehicle battery technology. By analyzing patent data, we aim to contribute to the ongoing development and improvement of sustainable transportation solutions.
 
 
-## 06. Contact
+## 04. Contact
 
 For any inquiries or further information regarding the Patents-Analysis-with-Apache-Spark Project, please feel free to reach out:
 
