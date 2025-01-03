@@ -1,8 +1,16 @@
 # BIG-DATA-PROJECT-Patents-Analysis-with-Apache-Spark
 
+## Table of Contents
+
+01. [Project Overview](#1-project-overview)
+02. [Key Objectives](#2-key-bjectives)
+03. [Technologies Used](#3-technologies-used)
+04. [Methodology](#4-methodology)
+05. [Project Pipeline](#5-project-pipeline)
+06. [Contact](#10-contact)
 
 
-
+## 1. Project Overview
 
 Our project involves the collection, storage, analysis, and visualization of patent data from multiple sources, including Google Patents, USPTO (United States Patent and Trademark Office), ECPACENET, WIPO (World Intellectual Property Organization), and FPO (Free Patents Online). The patent data is collected using a combination of Google patent scraper, BeautifulSoup, and Selenium. 
 
@@ -16,7 +24,7 @@ Furthermore, our project includes the development of a professional Graphical Us
 
 
 
-**Project Pipeline:**
+## 5. Project Pipeline:
 
 ● Data Sourcing : We extracted data from Google Patents, FPO, Espacenet, Canadian Patents Database, and WIPO using tools like Beautiful Soup, Selenium, and Google Patents Scraper.
 
@@ -35,3 +43,12 @@ Furthermore, our project includes the development of a professional Graphical Us
 
 
 The primary goal of this project is to provide a comprehensive understanding of the current state and future direction of electric vehicle battery technology. By analyzing patent data, we aim to contribute to the ongoing development and improvement of sustainable transportation solutions.
+
+
+## 06. Contact
+
+For any inquiries or further information regarding the Patents-Analysis-with-Apache-Spark Project, please feel free to reach out:
+
+- **Name      :**    AMEZIAN Douha  
+- **Email     :**   [ameziandouha9@gmail.com](ameziandouha9@gmail.com)  
+- **LinkedIn  :**  [AMEZIAN Douha](https://www.linkedin.com/in/douha-amezian-033629280/)  
