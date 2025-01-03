@@ -9,6 +9,19 @@ The analysis phase utilizes Spark, a distributed computing framework, to process
 
 Furthermore, our project includes the development of a professional Graphical User Interface (GUI) using HTML, CSS, Bootstrap, and Flask. This interface provides an enhanced user experience, facilitating interaction with the data and presenting results in an intuitive and user-friendly manner.
 
-![image](https://github.com/user-attachments/assets/98ee7d8b-12a7-4d42-886c-187dc7a3fca2)
+**Project Pipeline:**
+
+● Data Sourcing : We extracted data from Google Patents, FPO, Espacenet, Canadian Patents Database, and WIPO using tools like Beautiful Soup, Selenium, and Google Patents Scraper.
+
+● Data Storage : Our team efficiently stored the data in MongoDB, ensuring seamless access and management.
+
+● Data Analysis : Leveraging the power of Apache Spark, we conducted thorough data analysis to uncover valuable insights.
+
+● Data Visualization : Utilizing Tableau and Power BI, we transformed our findings into clear, impactful visualizations.
+
+● Web App Development : Finally, we developed a user-friendly web app using Flask, JavaScript, HTML, CSS, and Bootstrap to present our results.
+
+
+                  ![image](https://github.com/user-attachments/assets/98ee7d8b-12a7-4d42-886c-187dc7a3fca2)
 
 The primary goal of this project is to provide a comprehensive understanding of the current state and future direction of electric vehicle battery technology. By analyzing patent data, we aim to contribute to the ongoing development and improvement of sustainable transportation solutions.
