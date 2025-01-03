@@ -1,11 +1,15 @@
 # BIG-DATA-PROJECT-Patents-Analysis-with-Apache-Spark
 
+
+
+
+
 ## Table of Contents
 
 01. [Project Overview](#1-project-overview)
 02. [Link to the App](#2-link-to-the-app)
-03. [Project Pipeline](#5-project-pipeline)
-04. [Contact](#10-contact)
+03. [Project Pipeline](#3-project-pipeline)
+04. [Contact](#04-contact)
 
 
 ## 1. Project Overview
